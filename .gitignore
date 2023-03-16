@@ -1,0 +1,13 @@
+MultiplayerTemplate/DerivedDataCache/*
+MultiplayerTemplate/Saved/Autosaves/*
+MultiplayerTemplate/Saved/Collections/*
+MultiplayerTemplate/Saved/Cooked/*
+MultiplayerTemplate/Saved/Logs/*
+MultiplayerTemplate/Saved/MaterialStats/*
+MultiplayerTemplate/Saved/MaterialStatsDebug/*
+MultiplayerTemplate/Saved/Shaders/*
+MultiplayerTemplate/Saved/StagedBuilds/*
+MultiplayerTemplate/Saved/Temp/*
+MultiplayerTemplate/Saved/Autosaves/*
+MultiplayerTemplate/Intermediate/*
+MultiplayerTemplate/Build/*
